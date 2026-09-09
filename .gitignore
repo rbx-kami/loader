@@ -1,0 +1,11 @@
+src/
+aftman.toml
+default.project.json
+sourcemap.json
+.robloxrc
+
+*.rbxl.lock
+*.rbxlx.lock
+
+.DS_Store
+Thumbs.db
